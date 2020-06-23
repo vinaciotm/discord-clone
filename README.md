@@ -1,2 +1,1 @@
-# discord-clone
-Reacreating Discord with ReactJS (TypeScript)
+## Discord clone (ReactJS with TypeScript)
