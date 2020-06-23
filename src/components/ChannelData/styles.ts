@@ -20,6 +20,8 @@ export const Messages = styled.div`
   max-height: calc(100vh - 46px - 68px);
   overflow-y: scroll;
 
+  scrollbar-width: thin;
+
   ::-webkit-scrollbar {
     width: 6px;
   }

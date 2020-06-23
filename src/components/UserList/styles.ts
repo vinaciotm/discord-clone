@@ -11,6 +11,7 @@ export const Container = styled.div`
 
   max-height: calc(100vh - 46px);
   overflow-y: scroll;
+  scrollbar-width: thin;
 
   ::-webkit-scrollbar {
     width: 6px;
